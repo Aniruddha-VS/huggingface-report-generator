@@ -1,8 +1,9 @@
 # huggingface-report-generator
-Lists Top 10 most downloaded models on huggingface.
 
-to run it locally :
+Lists the Top 10 most downloaded models on Hugging Face.
 
-a. on linux/arm64 architecture machines: docker run ani007s/hf-model-report:v02
+To run it locally:
 
-b. on linux/x86 architechture machines: docker run ani007s/hf-model-report:v03
+a. On Linux/arm64 architecture machines: docker run ani007s/hf-model-report:v02
+
+b. On Linux/amd64 (also referred to as x86_64) architecture machines: docker run ani007s/hf-model-report:v03
